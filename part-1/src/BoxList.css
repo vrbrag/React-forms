@@ -1,0 +1,13 @@
+.BoxList {
+   text-align: center;
+ }
+ 
+ .BoxList-title {
+   color: rgb(7, 3, 3);
+ }
+ 
+ .BoxList-boxes {
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+ }

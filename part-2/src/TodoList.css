@@ -1,0 +1,8 @@
+.TodoList{
+   text-align: center;
+}
+
+.TodoItems {
+   display: table;
+   margin: 0 auto;
+}
